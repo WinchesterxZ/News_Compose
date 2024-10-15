@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="Theme.NewsCompose" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:textColor">@color/primary_text_night</item>
+    </style>
+
+    <style name="ThemeOverlay.NewsCompose.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_900</item>
+        <item name="fullscreenTextColor">@color/light_blue_A400</item>
+    </style>
+</resources>
